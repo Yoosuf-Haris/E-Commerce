@@ -1,0 +1,53 @@
+/* Add your custom styles here */
+body {
+  background-color: #f8f9fa; /* Adjust the background color as needed */
+}
+
+.container {
+  max-width: 800px; /* Adjust the maximum width of the container as needed */
+}
+
+/* Style for the checkout form */
+.form-check-label {
+  padding-left: 0; /* Adjust padding for checkbox labels */
+}
+
+/* Style for the billing address section */
+#same-address,
+#save-info {
+  margin-top: 1rem; /* Adjust margin as needed */
+}
+
+/* Style for the payment section */
+#credit,
+#debit,
+#paypal {
+  margin-bottom: 1rem; /* Adjust margin as needed */
+}
+
+/* Style for the continue to checkout button */
+.btn-primary {
+  background-color: #007bff; /* Adjust the button color as needed */
+  border-color: #007bff; /* Adjust the button border color as needed */
+}
+
+/* Style for the footer */
+.footer {
+  background-color: #f8f9fa; /* Adjust the footer background color as needed */
+  padding: 2rem 0; /* Adjust padding as needed */
+  color: #6c757d; /* Adjust the text color as needed */
+}
+
+/* Style for the list-inline in the footer */
+.list-inline-item {
+  margin-right: 1rem; /* Adjust margin as needed */
+}
+
+/* Style for the dropdown theme toggle */
+.bd-mode-toggle {
+  z-index: 1500; /* Adjust z-index as needed */
+}
+
+.bd-mode-toggle .dropdown-menu .active .bi {
+  display: block !important;
+}

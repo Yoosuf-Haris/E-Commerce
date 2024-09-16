@@ -1,0 +1,55 @@
+
+body{
+    background-image: url(Images/doctor3.jpg);
+    background-size: 100% ;
+    background-repeat: no-repeat;
+}
+
+/* Css code for header */
+header {
+    
+    color: #fff;
+    padding: 10px;
+    text-align:center ;
+}
+
+form {
+    background-color: #fff;
+    border: 3px solid #000;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 400px;
+    width: 500px;
+margin: 0 auto;}
+/* Css code for navigation bar */
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Css code for logo */
+.logo {
+    position: absolute;
+    top: 10;
+    left:525;
+	
+}
+.sidebar {
+    position: fixed;
+    top: 10;
+    right: 20;
+    padding: 20px;
+    background-color: #000000;
+}
+.signup-button {
+display: block;
+margin-bottom: 10px;
+width: 100%;
+padding: 5px;
+font-size: 16px;
+text-align:center;
+}
